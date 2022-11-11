@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mercycheps
 - 👀 I’m interested in ...software engineering
 - 🌱 I’m currently learning ...to code
-- 💞️ I’m looking to collaborate on ...building apps
+- 💞️ I’m looking to collaborate on ...building and releasing apps to customers
 - 📫 How to reach me ...maritimmercy8@gmail.com
 
 <!---
